@@ -12,3 +12,10 @@ This framework will be maintened by the community.
 - CA UIM C SDK
 - Node8 latest ABI.
 - Node8 
+
+## Roadmap 
+
+- Launch C probe (checkconfig sample, hubs and robots list).
+- Extern to C++ (same).
+- Extern to Node (same), FFI with Node ABI.
+- Release first API Draft.
