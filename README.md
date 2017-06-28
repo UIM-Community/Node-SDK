@@ -15,7 +15,7 @@ This framework will be maintened by the community.
 
 ## Roadmap 
 
-- [] Launch C probe (checkconfig sample, hubs and robots list). [**Bloqued by issue(s)**]
+- [] Launch C probe (checkconfig sample, hubs and robots list). (**To be done soon on AREA51 Nimsoft**)
 - [] Extern to C++ (same). 
 - [] Extern to Node (same), FFI with Node ABI.
 - [] Release first API Draft.
