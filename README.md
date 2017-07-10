@@ -3,19 +3,16 @@ CA - UIM - NodeJS SDK (C SDK FFI)
 
 ## Introduction 
 
-GIT about my project to create a new CA UIM SDK on top of NodeJS. The main goal is to provide a powerfull asynchronous interface of C SDK with a more friendly interface for any kind of managements (CFG, Server, Timed etc...).
-
-This framework will be maintened by the community. 
+GIT About the Node.JS SDK for CA Unified Infrastructure Manager (AKA Nimsoft). 
 
 ## Requirement 
 
 - CA UIM C SDK
-- Node8 latest ABI.
-- Node8 
+- Node.JS 8 N-API
 
 ## Roadmap 
 
-- [] Launch C probe (checkconfig sample, hubs and robots list). (**To be done soon on AREA51 Nimsoft**)
-- [] Extern to C++ (same). 
-- [] Extern to Node (same), FFI with Node ABI.
+- [] Launch C probe (checkconfig sample, hubs and robots list). (**To be done soon on ASYNCHRONOUS UIM Labs**)
+- [] Extern to C++ (**C++ framework for UIM**). 
+- [] Bind to Node with N-API.
 - [] Release first API Draft.
